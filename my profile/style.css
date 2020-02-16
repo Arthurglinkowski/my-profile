@@ -1,0 +1,35 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+.element.style {
+}
+.paragraph-space {
+    padding-bottom: 25px;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.card-white {
+    border-radius: 9px;
+    margin: 20px 0px;
+    padding: 40px;
+    background-color: white;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    text-align: center;
+}
+body {
+    background-color: #f4f4f4;
+    font-family: 'Avenir', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
